@@ -63,7 +63,7 @@ class                   [Status: 301, Size: 0]
 development.log         [Status: 200, Size: 1]
 ```
 
-> 📸 **[Aquí irían tus capturas de pantalla del terminal]**
+> 📸 ![escaneo de directorios](ruta/de/la/imagen.png)
 
 ---
 
