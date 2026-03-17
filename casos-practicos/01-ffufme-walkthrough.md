@@ -63,7 +63,7 @@ class                   [Status: 301, Size: 0]
 development.log         [Status: 200, Size: 1]
 ```
 
-> 📸 ![escaneo de directorios](ruta/de/la/imagen.png)
+> 📸 ![escaneo de directorios](primer escaneo de directorios.png)
 
 ---
 
