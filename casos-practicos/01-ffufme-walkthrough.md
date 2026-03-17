@@ -128,7 +128,7 @@ ffuf -w /usr/share/seclists/Discovery/Web-Content/common.txt \
 secret                  [Status: 200, Size: 25]
 ```
 
-> 📸 **[Aquí irían tus capturas de pantalla del terminal]**
+![filtrado por tamaño](https://raw.githubusercontent.com/Herxl/arsenal-analista-ffuf/main/screenshots/filtrado_tama%C3%B1o.png)
 
 ---
 
