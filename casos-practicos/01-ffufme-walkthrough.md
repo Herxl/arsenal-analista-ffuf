@@ -82,7 +82,7 @@ ffuf -w /usr/share/seclists/Discovery/Web-Content/raft-medium-words.txt \
 users.log               [Status: 200, Size: 162]
 ```
 
-> 📸 **[Aquí irían tus capturas de pantalla del terminal]**
+![búsqueda con extensiones](https://raw.githubusercontent.com/Herxl/arsenal-analista-ffuf/main/screenshots/busqueda_extensiones.png)
 
 ---
 
