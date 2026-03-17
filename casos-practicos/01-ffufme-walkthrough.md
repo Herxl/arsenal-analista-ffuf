@@ -101,7 +101,7 @@ ffuf -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt \
 debug                   [Status: 200, Size: 1]
 ```
 
-> 📸 **[Aquí irían tus capturas de pantalla del terminal]**
+![fuzzing de parámetros](https://raw.githubusercontent.com/Herxl/arsenal-analista-ffuf/main/screenshots/fuzzing_parametros.png)
 
 ---
 
